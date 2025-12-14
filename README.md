@@ -1,1 +1,1 @@
-This repositoryy includes basic programs of ARRAY
+This repository includes basic programs of ARRAY
